@@ -1,0 +1,49 @@
+body{
+    background-color:rgb(234, 241, 201);
+    color:olive;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      }
+
+.container{
+    width:80%;
+    margin:auto;
+}      
+
+.border {
+    margin:10px;
+    padding:10px;
+    border: 5px double rgb(193, 240, 64);
+    border-color:darksalmon;
+    background-color:darkturquoise;
+    }
+
+.border2 {
+    margin:50px 10px;
+    padding:1px 15px;
+    border-color:darksalmon;
+    background-color:darkturquoise;
+       
+}    
+
+.underlining {
+    text-decoration-line: underline;
+    }
+
+.text-shadow {
+    text-shadow: 2px 2px #aec963;
+}   
+
+.box1{
+    margin:50px 10px;
+    padding:0px 15px;
+    
+}
+
+.inline{
+    display:inline;
+    }
+
+.box2{
+    margin:50px 10px;
+    padding:0px 15px;
+}
